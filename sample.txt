@@ -1,1 +1,10 @@
-Please provide a topic acoording to the ENS standards
+{
+    "asset": "sample",
+    "description": "sample asset",
+    "Topics": [
+        "ens-others"
+    ],
+    "Associations": [
+        "https://github/abc/test_repo.com"
+    ]
+}
