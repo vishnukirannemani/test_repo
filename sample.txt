@@ -1,11 +1,1 @@
-{
-    "asset": "sample",
-    "description": "sample-data",
-    "Topics": [
-        "ens-others",
-        "vishnu-sample"
-    ],
-    "Associations": [
-        "https://github.com/vishnu-repo/test-repo"
-    ]
-}
+Please provide a topic acoording to the ENS standards
