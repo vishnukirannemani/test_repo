@@ -1,8 +1,1 @@
-{
-    "assetName": "sample",
-    "description": "sample data",
-    "Topics": [
-        "ens-others",
-        "Vishnu-test"
-    ]
-}
+Please provide a topic acoording to the ENS standards
