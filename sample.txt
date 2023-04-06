@@ -2,10 +2,9 @@
     "assetName": "sample",
     "description": "sample-data",
     "Topics": [
-        "ens-others",
-        "vishnu-sample"
+        "ens-others"
     ],
     "Associations": [
-        "abc.com"
+        "https:/github.com/test_repo/digitalasset1"
     ]
 }
