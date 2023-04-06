@@ -1,12 +1,11 @@
 {
     "assetName": "sample",
-    "description": "sample data",
+    "description": "sample-data",
     "Topics": [
-	"ens-others",
-        
-        "Vishnu-test"
+        "ens-others",
+        "vishnu-sample"
     ],
     "Associations": [
-	"https://github.com/test_repo"
+        "abc.com"
     ]
 }
