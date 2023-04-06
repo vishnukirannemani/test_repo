@@ -4,8 +4,5 @@
     "Topics": [
         "ens-others",
         "Vishnu-test"
-    ],
-    "Associations": [
-        "https://github.com/test_repo/sample"
     ]
 }
