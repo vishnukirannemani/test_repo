@@ -1,1 +1,11 @@
-Please provide a topic acoording to the ENS standards
+{
+    "assetName": "sample",
+    "description": "sample data",
+    "Topics": [
+        "ens-others",
+        "vishnu-sample"
+    ],
+    "Associations": [
+        "https://github.com/test_repo/sample"
+    ]
+}
