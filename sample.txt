@@ -1,12 +1,11 @@
 {
     "assetName": "sample",
-    "description": "sample data",
+    "description": "sample-description",
     "Topics": [
-	
         "ens-others",
-        "Vishnu-test"
+        "vishnu-kiran"
     ],
-    "Associations":[
-	"https://github.com/test_repo2/digitalasset-1"
-]
+    "Associations": [
+        "abc.com"
+    ]
 }
