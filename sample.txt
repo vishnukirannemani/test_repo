@@ -1,9 +1,8 @@
 {
-    "assetName": "sample",
+    "assetName": "sample-asset",
     "description": "sample-description",
     "Topics": [
-        "ens-others",
-        "vishnu-kiran"
+        "ens-others"
     ],
     "Associations": [
         "abc.com"
