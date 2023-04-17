@@ -2,9 +2,10 @@
     "assetName": "sample-asset",
     "description": "sample-description",
     "Topics": [
-        "ens-others"
+        "ens-others",
+        "vishnu-kiran"
     ],
     "Associations": [
-        "abc.com"
+        "https://github.com/test_repo2"
     ]
 }
