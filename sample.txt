@@ -1,6 +1,6 @@
 {
-    "assetName": "sample-file",
-    "description": "sample description",
+    "assetName": "sample",
+    "description": "sample-desc",
     "Topics": [
         "ens-others"
     ],
