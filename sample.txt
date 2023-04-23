@@ -3,7 +3,7 @@
     "description": "sample-desc",
     "Topics": [
         "Vishnu-test",
-        "ens-mlmodel"
+        "ens-asset"
     ],
     "Associations": "abc.com"
 }
