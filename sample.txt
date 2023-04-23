@@ -1,10 +1,1 @@
-{
-    "assetName": "sample",
-    "description": "sample-desc",
-    "Topics": [
-        "ens-others"
-    ],
-    "Associations": [
-        "abc.com"
-    ]
-}
+{'assetName': 'sample', 'description': 'sample-desc', 'Topics': ['ens-others', 'Vishnu-test'], 'Associations': 'abc.com'}
