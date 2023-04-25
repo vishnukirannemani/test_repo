@@ -3,7 +3,7 @@
     "description": "sample-desc",
     "Topics": [
         "Vishnu-test",
-        "ens-sports"
+        "ens-others"
     ],
     "Associations": "abc.com"
 }
