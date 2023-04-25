@@ -1,9 +1,10 @@
 {
-    "assetName": "sample",
-    "description": "sample-desc",
+    "assetName": "sample-data",
+    "description": "sample-descritopn",
     "Topics": [
-        "Vishnu-test",
         "ens-others"
     ],
-    "Associations": "abc.com"
+    "Associations": [
+        "abc.com"
+    ]
 }
