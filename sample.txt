@@ -1,8 +1,0 @@
-{
-    "assetName": "sample",
-    "description": "sample-desc",
-    "Associations": "abc.com",
-    "Topics": [
-        "ens-lifesciences"
-    ]
-}
