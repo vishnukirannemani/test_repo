@@ -1,9 +1,10 @@
 {
-    "assetName": "sample-name",
-    "description": "sample-desc",
+    "assetName": "a",
+    "description": "a",
     "Topics": [
-        "sample1",
-        "ens-mathematics"
+        "a",
+        "b",
+        "ens-machinelearning"
     ],
-    "Associations": "abc.com"
+    "Associations": "a.com"
 }
