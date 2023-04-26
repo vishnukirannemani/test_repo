@@ -96,6 +96,3 @@ contract MovieToken is ERC721 {
 }
 
 
-
-
-#################
