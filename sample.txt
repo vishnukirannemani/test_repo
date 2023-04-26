@@ -3,6 +3,6 @@
     "description": "sample-desc",
     "Associations": "abc.com",
     "Topics": [
-        "ens-mathematics"
+        "ens-lifesciences"
     ]
 }
