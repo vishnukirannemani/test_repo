@@ -1,10 +1,6 @@
 {
-    "assetName": "a",
-    "description": "a",
-    "Topics": [
-        "ens-mathematics"
-    ],
-    "Associations": [
-        "abc.com"
-    ]
+    "assetName": "sample",
+    "description": "sample-desc",
+    "Associations": "abc.com",
+    "Topics": "kf"
 }
