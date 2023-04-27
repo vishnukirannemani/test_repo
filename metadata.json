@@ -3,8 +3,11 @@
     "description": "aa",
     "Topics": [
         "sample",
-        "sample-topic",
-        "ens-mathematics"
+        "a",
+        "b",
+        "ens-machinelearning"
     ],
-    "Associations": "a"
+    "Associations": [
+        "a"
+    ]
 }
