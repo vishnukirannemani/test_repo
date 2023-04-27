@@ -3,11 +3,11 @@
     "description": "aa",
     "Topics": [
         "sample",
-        "SAMPLE-1",
-        "ens-machinelearning"
+        "sample-topic1",
+        "sample-topic-2",
+        "ens-sports"
     ],
     "Associations": [
-        "SAMPE-1",
-        "SAMPLE-2"
+        "https://github.com/test_repo"
     ]
 }
