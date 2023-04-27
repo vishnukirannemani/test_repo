@@ -1,9 +1,8 @@
 {
     "assetName": "a",
-    "description": "",
+    "description": "aa",
     "Topics": [
-        "",
-        "ens-machinelearning"
+        "sample"
     ],
     "Associations": "a"
 }
