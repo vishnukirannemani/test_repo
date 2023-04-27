@@ -2,7 +2,9 @@
     "assetName": "a",
     "description": "aa",
     "Topics": [
-        "sample"
+        "sample",
+        "sample-topic",
+        "ens-mathematics"
     ],
     "Associations": "a"
 }
