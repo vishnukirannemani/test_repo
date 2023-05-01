@@ -3,8 +3,9 @@
     "description": "aa",
     "Topics": [
         "sample",
-        "sample-topic",
-        "ens-lifesciences"
+        "sample-tags1",
+        "sample-tag2",
+        "ens-sports"
     ],
     "Associations": [
         "https://github.com/test_repo"
