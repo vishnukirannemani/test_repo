@@ -3,11 +3,11 @@
     "description": "aa",
     "Topics": [
         "sample",
-        "sample-tags1",
-        "sample-tag2",
-        "ens-sports"
+        "",
+        "ens-lifesciences"
     ],
     "Associations": [
-        "https://github.com/test_repo"
+        "abc.com",
+        "xyz.com"
     ]
 }
