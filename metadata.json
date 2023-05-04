@@ -3,11 +3,10 @@
     "description": "aa",
     "Topics": [
         "sample",
-        "sample-topic1",
+        "sampl",
         "ens-machinelearning"
     ],
     "Associations": [
-        "abc.com",
-        "xyz.com"
+        "abc.com"
     ]
 }
