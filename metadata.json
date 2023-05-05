@@ -1,16 +1,11 @@
 {
     "assetName": "sample-name",
     "description": "sample-description",
-    "topics": [
+    "Topics": [
         "sample",
         "sample-tepoic-1",
         "ens-mathematics",
         "ens-asset"
-    ],
-    "associations": [],
-    "Topics": [
-        "",
-        "ens-machinelearning"
     ],
     "Associations": [
         "github.com"
