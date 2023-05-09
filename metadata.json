@@ -3,11 +3,10 @@
     "description": "sample-description",
     "topics": [
         "sample-topic",
-        "ens-mathematics",
+        "ens-machinelearning",
         "ens-asset"
     ],
     "associations": [
-        "abc.com",
-        "abc2.com"
+        "abc.com"
     ]
 }
