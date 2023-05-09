@@ -1,13 +1,13 @@
 {
     "assetName": "sample-name",
     "description": "sample-description",
-    "Topics": [
-        "sample",
+    "topics": [
         "sample-topic",
         "ens-mathematics",
         "ens-asset"
     ],
-    "Associations": [
-        "github.com/test_repo"
+    "associations": [
+        "abc.com",
+        "abc2.com"
     ]
 }
