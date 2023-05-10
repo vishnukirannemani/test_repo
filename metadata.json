@@ -4,9 +4,13 @@
     "topics": [
         "sample-topic",
         "ens-machinelearning",
+        "ens-asset",
+        "",
+        "ens-machinelearning",
         "ens-asset"
     ],
     "associations": [
-        "abc.com"
+        "abc.com",
+        "xyz.com"
     ]
 }
