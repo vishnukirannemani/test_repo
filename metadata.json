@@ -10,6 +10,9 @@
         "ens-asset",
         "sample-topic",
         "ens-machinelearning",
+        "ens-asset",
+        "",
+        "ens-others",
         "ens-asset"
     ],
     "associations": [
