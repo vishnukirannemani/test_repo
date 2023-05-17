@@ -6,6 +6,7 @@
         "ens-asset"
     ],
     "associations": [
-        "abc.com"
+        "abc.com",
+        "xyz.com"
     ]
 }
