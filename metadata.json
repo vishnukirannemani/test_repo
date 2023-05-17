@@ -1,1 +1,12 @@
-{'assetName': 'sample-same', 'description': 'sample-desc', 'topics': ['sample-topic', 'ens-machinelearning', 'ens-asset', '', 'ens-machinelearning', 'ens-asset', 'sample-topic', 'ens-machinelearning', 'ens-asset', '', 'ens-others', 'ens-asset'], 'associations': ['abc.com', 'xyz.com']}
+{
+    "assetName": "sample-name",
+    "description": "sample-desc",
+    "topics": [
+        "sample-topic",
+        "ens-machinelearning",
+        "ens-asset"
+    ],
+    "associations": [
+        "abc.com"
+    ]
+}
