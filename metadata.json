@@ -2,7 +2,7 @@
     "assetName": "sample-name",
     "description": "sample-desc",
     "topics": [
-        "sample-topic",
+        "sample-topic1",
         "ens-machinelearning",
         "ens-asset"
     ],
