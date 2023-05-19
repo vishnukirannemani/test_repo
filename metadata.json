@@ -7,7 +7,6 @@
         "sample-topic-1"
     ],
     "associations": [
-        "abc.com",
-        "xyz.com"
+        "abc.com"
     ]
 }
