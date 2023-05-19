@@ -2,9 +2,9 @@
     "assetName": "sample-name",
     "description": "sample-desc",
     "topics": [
-        "sample-topic-1",
         "ens-machinelearning",
-        "ens-asset"
+        "ens-asset",
+        "sample-topic-1"
     ],
     "associations": [
         "abc.com",
