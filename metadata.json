@@ -1,9 +1,9 @@
 {
-    "assetName": "sample name",
-    "description": "sample desc",
+    "assetName": "sample",
+    "description": "sample-desc",
     "topics": [
         "ens-machinelearning",
-        "sample-topic",
+        "topic",
         "ens-asset"
     ],
     "associations": [
