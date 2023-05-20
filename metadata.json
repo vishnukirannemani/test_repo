@@ -1,10 +1,10 @@
 {
-    "assetName": "sample-name",
-    "description": "sample-desc",
+    "assetName": "sample name",
+    "description": "sample desc",
     "topics": [
         "ens-machinelearning",
-        "ens-asset",
-        "sample-topic-1"
+        "sample-topic",
+        "ens-asset"
     ],
     "associations": [
         "abc.com"
